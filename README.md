@@ -84,7 +84,7 @@ Elle propose le minimum mais Bosch mais le point sur la protection des données 
 <h2>Diagramme de cas d’utilisation</h2> 
 <img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/diag.png" title = "diag" alt = "diag">
 <h2>Prototypage Fritzing</h2>
-<img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/firtz.jpg" title = "fritz" alt = "fritz">
+<img src = "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/fritz.jpg" title = "fritz" alt = "fritz">
 
 <h1>Fonctionnalité</h1> 
 
